@@ -1,4 +1,4 @@
-//4. Capture dos números y muestre por pantalla la sumatoria dichos números.
+//5. Capture dos números y muestre por pantalla la sumatoria dichos números.
 
 using System;
 
